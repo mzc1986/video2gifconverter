@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Video-to-Gif-Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/Video-to-Gif-Converter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video-to-Gif-Converter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video-to-Gif-Converter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/video2gifconverter.iml" filepath="$PROJECT_DIR$/.idea/modules/video2gifconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/video2gifconverter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/video2gifconverter.app.iml" />
     </modules>
   </component>
 </project>
